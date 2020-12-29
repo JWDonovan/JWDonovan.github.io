@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Hello, world!"
-date:       2020-12-29 21:41:22 +0000
+date:       2020-12-29 16:41:23 -0500
 permalink:  hello_world
 ---
 
 
-So glad you could stop by to check out my new blog and see my first ever post! Like all those who start a blog, I have big plans for what I want it to be about. But first,let's start with a welcome. My name is James and I plan to introduce myself properly in my next post. Before I do that, I want to set some expectations of what I, as a writer, want for this blog and what you, as a reader, might see if you decide to stick around.
+So glad you could stop by to check out my new blog and see my first ever post! Like all those who start a blog, I have big plans for what I want it to be about. But first,let's start with a welcome. My name is James and I plan to introduce myself properly in my [next post](https://jwdonovan.github.io/howdy_internet_nice_to_meet_ya). Before I do that, I want to set some expectations of what I, as a writer, want for this blog and what you, as a reader, might see if you decide to stick around.
 
 First and foremost this blog will be about technology -- specifically programming and all things computer-related. I am currently studying software engineering to become a professional web developer and many of the posts on this blog will serve to document my journey along this path. Also, because programming has been a long time hobby and passion for me, I simply enjoy learning and writing about the topic and I hope you will enjoy reading about it.
 
