@@ -5,7 +5,7 @@ date:       2020-12-31 00:05:53 -0500
 permalink:  wettr_a_command_line_weather_app
 ---
 
-My first gem! This post is all about wettr -- a command line weather app written in Ruby and published to [rubygems.org](https://rubygems.org/gems/wettr). You can find the source code for this gem at (https://github.com/JWDonovan/wettr). It uses OpenWeatherMap's Current Weather API, as well as, ipapi.co's IP Address API to give you current weather at your location or a location of your choosing.
+My first gem! This post is all about wettr -- a command line weather app written in Ruby and published to [rubygems.org](https://rubygems.org/gems/wettr). You can find the source code for this gem at [https://github.com/JWDonovan/wettr](https://github.com/JWDonovan/wettr). It uses OpenWeatherMap's Current Weather API, as well as, ipapi.co's IP Address API to give you current weather at your location or a location of your choosing.
 Give it a try. But, if you want to read a little more about how this gem was made, then stick around.
 
 As part of the Flatiron School's Software Engineering course, in which I am currently enrolled, students are required to make 5 personal projects; the first of which being a command line app written in Ruby. For this project I decided to make a weather app simply because it sounded like a fun project and might be something I'd use day-to-day. After reading some helpful articles on creating Ruby gems, like [this one from bundler](https://bundler.io/guides/creating_gem.html) or [this one from rubygems.org](https://guides.rubygems.org/make-your-own-gem/), I set off to make my own.
